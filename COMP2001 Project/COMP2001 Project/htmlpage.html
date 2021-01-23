@@ -1,0 +1,24 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="LogIn.aspx.cs" Inherits="MembershipSite.LogInPage" %>
+
+
+<!DOCTYPE html>
+<html>
+<head runat="server">>
+   <meta charset="utf-8" />
+    <title></title>
+    </head>
+    <body>
+        <form id="form1" runat="server">
+
+            <div>
+                <h2>LogIn Page</h2>
+                <asp:Label ID="Label1" runat="server" Text="Please log in below."></asp:Label>
+                <br />
+                <br />
+                <asp:Login ID="LoginControl" runat="server"
+                           onauthenticate="LoginControl_Authenticate">
+                </asp:Login>
+            </div>
+        </form>
+    </body>
+</html>

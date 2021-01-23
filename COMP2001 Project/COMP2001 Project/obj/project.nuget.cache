@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NCFYJUfoqZ7A4ULE8Mcb4TPETTa3UiVQftAUy0t95yXEFmWTGpmNem71/W4fTXhqOqNgTnQHWA6icpKv1c8/MQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jackd\\source\\repos\\COMP2001 Project\\COMP2001 Project\\COMP2001 Project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jackd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.11\\microsoft.netcore.app.host.win-x64.3.1.11.nupkg.sha512"
+  ],
+  "logs": []
+}
